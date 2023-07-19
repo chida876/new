@@ -1,0 +1,38 @@
+1. What is programming language ?
+programming language is the way of conveying the message (information ) to the computer which is given by the external user in the form of program to get the task done.
+
+2. What are basic programming constructs?
+  a. storing the data
+  b. processing the data
+  c. displaying o/p
+
+3) How to print something on the output screen ?
+	by using print stateement
+
+4) How to store data for processing in python ?
+	we can stpopre the data in the form of variables , integers, string ,float
+
+5) What are operators u know in python ?
+   Airthematic operators ( '+','-','*','/','%')
+   logical operators ( AND,OR,NOT)
+   comparision operators ( == , <,>,<=,>=,)
+
+	
+
+6) write a program to sum, sub, product, quotient, remainder of two numbers?
+
+7) how to compare values two values?
+ we can copmare the two values using comparission operators
+
+8) what are data types? list the data types you know.
+ data types define the type of data which are stored 
+
+  int
+  float
+  str
+  boolean 
+
+9) write a program which takes input data from the user and prints the same data on the screen?
+
+ data = 'xyz'
+print(data)
